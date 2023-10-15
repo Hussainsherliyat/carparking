@@ -147,8 +147,4 @@ public class Application {
             }
         }
     }
-
-    public static boolean isValidYear(int year) {
-        return year >= 1800 && year <= 2023;
-    }
 }
